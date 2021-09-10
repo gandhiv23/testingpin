@@ -1,0 +1,28 @@
+<svg width="102" height="85" viewBox="0 0 102 85" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="animation">
+<g id="Group" opacity="0.2">
+<rect id="Rectangle" x="1" y="1" width="74.901" height="58.9992" rx="4.15842" stroke="white" stroke-width="1.9802"/>
+<path id="Path" d="M1 11.454H75.901" stroke="white" stroke-width="1.9802"/>
+<path id="Path_2" d="M6.76221 6.642H22.4355" stroke="white" stroke-width="1.9802"/>
+<path id="Path_3" d="M6.76221 19.102H33.3563" stroke="white" stroke-width="1.9802"/>
+<path id="Path_4" d="M6.76221 26.6509H33.3563" stroke="white" stroke-width="1.9802"/>
+<path id="Path_5" d="M6.76221 34.2H20.6335" stroke="white" stroke-width="1.9802"/>
+</g>
+<g id="Group_2">
+<g id="Group_3">
+<path id="Path_6" d="M71.6729 83.1305C70.8412 83.1305 70.0194 83.1305 69.2075 83.0219" stroke="white" stroke-width="1.9802"/>
+<path id="Path_7" d="M64.3662 82.1721C51.5322 78.7397 42.8114 66.8691 43.3916 53.6219C43.9717 40.3747 53.697 29.3086 66.782 27.0067" stroke="white" stroke-width="1.9802" stroke-dasharray="4.94"/>
+<path id="Path_8" d="M69.2075 26.6905C70.0194 26.6214 70.8412 26.5917 71.6729 26.5917" stroke="white" stroke-width="1.9802"/>
+</g>
+<path id="Path_9" d="M71.6729 26.5817C81.921 26.3905 91.4738 31.7374 96.654 40.5641C101.834 49.3909 101.834 60.3213 96.654 69.1481C91.4738 77.9748 81.921 83.3216 71.6729 83.1304" stroke="white" stroke-width="1.9802"/>
+<ellipse id="Oval" cx="71.6729" cy="54.8512" rx="20.4653" ry="20.4239" fill="url(#paint0_linear)" stroke="white" stroke-width="1.9802"/>
+<path id="Path_10" d="M66.7227 46.3635V63.339L81.287 54.8513L66.7227 46.3635Z" fill="#2E2D40" stroke="white" stroke-width="1.9802"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="33.9006" y1="45.2271" x2="63.1516" y2="84.1162" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFCC01"/>
+<stop offset="1" stop-color="#FFB502"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="103" height="81" viewBox="0 0 103 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.2">
+<rect x="2" y="10.3077" width="64.0515" height="42.5641" rx="2.49485" stroke="white" stroke-width="2.06186"/>
+<path d="M34.0309 64.2359L33.9278 52.8718" stroke="white" stroke-width="2.06186"/>
+<path d="M48.4948 64.2359L37.0721 52.8718H30.9793L19.5566 64.2359" stroke="white" stroke-width="2.06186"/>
+<path d="M15.8037 42.2256L29.8449 28.2564L36.5872 34.9641L49.6285 22" stroke="white" stroke-width="2.06186"/>
+<path d="M50.4534 30.4V20.9436H41.3091" stroke="white" stroke-width="2.06186"/>
+<ellipse cx="13.5565" cy="21.1179" rx="3.8866" ry="3.86667" stroke="white" stroke-width="2.06186"/>
+<path d="M58.8352 39.0564L51.4229 46.4308" stroke="white" stroke-width="2.06186"/>
+<path d="M58.8352 46.4308L51.4229 39.0564" stroke="white" stroke-width="2.06186"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.2579 4.01025H49.794C51.3021 4.02711 52.5158 5.24824 52.5157 6.74872V10.2564H15.5054V6.74872C15.5054 5.2363 16.7377 4.01025 18.2579 4.01025Z" stroke="white" stroke-width="2.06186"/>
+<path d="M33.9281 10.3077V0" stroke="white" stroke-width="2.06186"/>
+</g>
+<rect x="45.8867" y="41.1794" width="55.1649" height="38.2462" rx="4.56701" fill="url(#paint0_linear)" stroke="white" stroke-width="2.06186"/>
+<path d="M67.0308 51.7847V69.4154L83.2266 60.6052L67.0308 51.7847Z" fill="#2E2D40" stroke="white" stroke-width="2.06186"/>
+<defs>
+<linearGradient id="paint0_linear" x1="45.8867" y1="79.4272" x2="101.041" y2="79.4272" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFCC01"/>
+<stop offset="1" stop-color="#FFB502"/>
+</linearGradient>
+</defs>
+</svg>
